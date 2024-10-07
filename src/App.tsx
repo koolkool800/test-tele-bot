@@ -23,7 +23,7 @@ function App() {
 
   return (
     <>
-      hi
+      hi2
       {JSON.stringify(user)}
     </>
   );
